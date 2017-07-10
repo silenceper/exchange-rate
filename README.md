@@ -6,6 +6,7 @@
 执行：
 
 >go build -o exchange-rate
+
 >./exchange-rate
 
 预览：
